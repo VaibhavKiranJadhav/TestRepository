@@ -5,7 +5,7 @@
     <fields>
         <fullName>Field_Name__c</fullName>
         <externalId>false</externalId>
-        <label>Field Name</label>
+        <label>Field Name Test</label>
         <length>255</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
