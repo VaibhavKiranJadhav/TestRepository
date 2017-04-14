@@ -15,7 +15,7 @@
     <fields>
         <fullName>Max_value__c</fullName>
         <externalId>false</externalId>
-        <label>Max value</label>
+        <label>Max value Test2</label>
         <precision>18</precision>
         <required>false</required>
         <scale>2</scale>
