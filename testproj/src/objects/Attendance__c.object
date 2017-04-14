@@ -58,7 +58,7 @@
     <fields>
         <fullName>First_quarter__c</fullName>
         <externalId>false</externalId>
-        <label>First quarter</label>
+        <label>First quarter Test</label>
         <precision>18</precision>
         <required>false</required>
         <scale>0</scale>
